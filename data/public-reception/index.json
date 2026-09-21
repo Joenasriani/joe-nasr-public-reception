@@ -1,7 +1,18 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "dataset_id": "joe-nasr-public-reception",
   "canonical_url": "https://joe-nasr-public-reception.vercel.app/",
+  "scope": [
+    "music",
+    "composition",
+    "guitar",
+    "audio",
+    "production",
+    "teaching/mentorship",
+    "professional work",
+    "professional recommendations",
+    "music community/history"
+  ],
   "subject": [
     "Joe Nasr",
     "Joe Ribal Nasr",
@@ -18,8 +29,7 @@
       "topics": [
         "Joe Nasr",
         "guitar",
-        "teaching/learning",
-        "Instagram"
+        "teaching/learning"
       ],
       "source_url": null,
       "evidence_asset": "1000501760.jpg",
@@ -35,8 +45,7 @@
       "topics": [
         "Joe Nasr",
         "guitar",
-        "music",
-        "Instagram"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501760.jpg",
@@ -51,8 +60,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "guitar",
-        "Instagram"
+        "guitar"
       ],
       "source_url": null,
       "evidence_asset": "1000501759.jpg",
@@ -67,8 +75,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "guitar",
-        "Instagram"
+        "guitar"
       ],
       "source_url": null,
       "evidence_asset": "1000501758.jpg",
@@ -85,7 +92,6 @@
         "Joe Nasr",
         "guitar",
         "teaching/learning",
-        "Instagram",
         "piano"
       ],
       "source_url": null,
@@ -101,8 +107,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "guitar",
-        "Instagram"
+        "guitar"
       ],
       "source_url": null,
       "evidence_asset": "1000501757.jpg",
@@ -117,8 +122,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "guitar",
-        "Instagram"
+        "guitar"
       ],
       "source_url": null,
       "evidence_asset": "1000501757.jpg",
@@ -133,8 +137,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "guitar",
-        "Instagram"
+        "guitar"
       ],
       "source_url": null,
       "evidence_asset": "1000501755.jpg",
@@ -150,7 +153,7 @@
       "topics": [
         "Joe Nasr",
         "guitar",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501754.jpg",
@@ -165,8 +168,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Instagram"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501749.jpg",
@@ -181,8 +183,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "composition",
-        "Facebook"
+        "composition"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -197,7 +198,6 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "Facebook",
         "lyrics"
       ],
       "source_url": null,
@@ -213,8 +213,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "composition",
-        "Facebook"
+        "composition"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -229,8 +228,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "composition",
-        "Facebook"
+        "composition"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -246,7 +244,6 @@
       "topics": [
         "Joe Nasr",
         "composition",
-        "Facebook",
         "piano",
         "lyrics"
       ],
@@ -259,11 +256,10 @@
       "speaker": "Elham Farid",
       "date": "2010-09-08",
       "platform": "Facebook",
-      "context": "Listener reaction",
+      "context": "Listener reaction to Joe Nasr 2010 composition",
       "statement_mode": "exact_transcription",
       "topics": [
-        "Joe Nasr",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -279,8 +275,7 @@
       "topics": [
         "Joe Nasr",
         "guitar",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -295,8 +290,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -312,7 +306,7 @@
       "topics": [
         "Joe Nasr",
         "composition",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501750.png",
@@ -328,7 +322,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "Hard Rock"
       ],
       "source_url": null,
       "evidence_asset": "1000501938.png",
@@ -343,10 +337,7 @@
       "statement_mode": "faithful_summary_with_quote",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook",
-        "Lebanon",
-        "artist/public reception"
+        "artist/work"
       ],
       "source_url": null,
       "evidence_asset": "1000501938.png",
@@ -357,12 +348,10 @@
       "speaker": "Nataly Sejaan Karam",
       "date": "2012-11",
       "platform": "Facebook music page",
-      "context": "Fan comment",
+      "context": "New fan comment on Joe Nasr Facebook music page",
       "statement_mode": "near_exact",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501938.png",
@@ -379,28 +368,11 @@
         "Joe Nasr",
         "composition",
         "music",
-        "Facebook",
-        "artist/public reception"
+        "artist/work"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-023"
-    },
-    {
-      "id": "TP-024",
-      "speaker": "Vera Rabadi",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "context": "Identity/history query",
-      "statement_mode": "faithful_summary",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-024"
     },
     {
       "id": "TP-025",
@@ -411,60 +383,11 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-025"
-    },
-    {
-      "id": "TP-026",
-      "speaker": "Tony Bk",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "context": "Personal/public page interaction",
-      "statement_mode": "faithful_summary",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-026"
-    },
-    {
-      "id": "TP-027",
-      "speaker": "Joanna El Khoury Badawi",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "context": "Personal/public page interaction",
-      "statement_mode": "exact_transcription",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-027"
-    },
-    {
-      "id": "TP-028",
-      "speaker": "S. Elia B. Saroufim",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "context": "Public comment",
-      "statement_mode": "near_exact",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-028"
     },
     {
       "id": "TP-029",
@@ -478,44 +401,14 @@
         "guitar",
         "music",
         "audio",
+        "teaching/learning",
+        "career",
         "soundtrack",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-029"
-    },
-    {
-      "id": "TP-030",
-      "speaker": "Eliz Zari Hosri",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "context": "Personal/public comment",
-      "statement_mode": "faithful_summary",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-030"
-    },
-    {
-      "id": "TP-031",
-      "speaker": "Maalam Parri",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "context": "Fan/public interaction",
-      "statement_mode": "exact_transcription",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501940.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-031"
     },
     {
       "id": "TP-032",
@@ -527,7 +420,6 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook",
         "lyrics"
       ],
       "source_url": null,
@@ -543,8 +435,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
@@ -559,8 +450,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
@@ -575,8 +465,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501940.png",
@@ -592,7 +481,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -608,27 +497,11 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-037"
-    },
-    {
-      "id": "TP-038",
-      "speaker": "Nathalie Catherine Rou…",
-      "date": "2012-01-15",
-      "platform": "Facebook music page",
-      "context": "Public comment",
-      "statement_mode": "exact_transcription",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501942.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-038"
     },
     {
       "id": "TP-039",
@@ -640,7 +513,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -656,27 +529,11 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-040"
-    },
-    {
-      "id": "TP-041",
-      "speaker": "Chamtal Daw",
-      "date": "2012-01-15",
-      "platform": "Facebook music page",
-      "context": "Public support comment",
-      "statement_mode": "faithful_summary_with_quote",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501942.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-041"
     },
     {
       "id": "TP-042",
@@ -686,9 +543,7 @@
       "context": "Public comment",
       "statement_mode": "exact_transcription",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -703,8 +558,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -721,7 +575,7 @@
         "Joe Nasr",
         "composition",
         "music",
-        "Facebook"
+        "project/work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -737,7 +591,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -753,7 +607,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "project/work"
       ],
       "source_url": null,
       "evidence_asset": "1000501942.png",
@@ -768,9 +622,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook",
-        "Lebanon"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501944.png",
@@ -785,8 +637,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501944.png",
@@ -801,29 +652,11 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook",
         "collaboration"
       ],
       "source_url": null,
       "evidence_asset": "1000501944.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-049"
-    },
-    {
-      "id": "TP-050",
-      "speaker": "Vartan Kelechian",
-      "date": "2011",
-      "platform": "Facebook music page",
-      "context": "Public support comment",
-      "statement_mode": "faithful_summary",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501944.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-050"
     },
     {
       "id": "TP-051",
@@ -834,8 +667,7 @@
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501944.png",
@@ -850,8 +682,7 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -865,9 +696,7 @@
       "context": "Request for specific Joe track",
       "statement_mode": "faithful_summary",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -881,9 +710,7 @@
       "context": "Request for specific Joe track",
       "statement_mode": "near_exact",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -899,27 +726,12 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "project/work",
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-055"
-    },
-    {
-      "id": "TP-056",
-      "speaker": "Ziad Rizkallah",
-      "date": "2009-06-21",
-      "platform": "Facebook music page",
-      "context": "Public comment",
-      "statement_mode": "exact_transcription",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501946.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-056"
     },
     {
       "id": "TP-057",
@@ -932,8 +744,7 @@
         "Joe Nasr",
         "guitar",
         "composition",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -950,8 +761,7 @@
         "Joe Nasr",
         "guitar",
         "composition",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -967,8 +777,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "teaching/learning",
-        "Facebook"
+        "teaching/learning"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -983,8 +792,7 @@
       "statement_mode": "partial_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -1000,7 +808,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -1015,8 +823,7 @@
       "statement_mode": "faithful_summary_with_quote",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -1030,9 +837,7 @@
       "context": "Reaction to specific Joe track",
       "statement_mode": "faithful_summary",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501946.png",
@@ -1048,7 +853,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook"
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1065,8 +870,8 @@
         "Joe Nasr",
         "music",
         "teaching/learning",
-        "Facebook",
-        "collaboration"
+        "collaboration",
+        "work"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1080,9 +885,7 @@
       "context": "Reference to a song Joe previously made for her",
       "statement_mode": "near_exact",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1097,8 +900,7 @@
       "statement_mode": "transcription_pending",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1112,9 +914,7 @@
       "context": "Reaction to specific Joe track",
       "statement_mode": "exact_transcription",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1129,28 +929,11 @@
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr",
-        "music",
-        "Facebook"
+        "music"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-069"
-    },
-    {
-      "id": "TP-070",
-      "speaker": "Mike Chaemine",
-      "date": "2009-06",
-      "platform": "Facebook music page",
-      "context": "Public/fan comment about Joe",
-      "statement_mode": "exact_transcription",
-      "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
-      ],
-      "source_url": null,
-      "evidence_asset": "1000501948.png",
-      "anchor": "https://joe-nasr-public-reception.vercel.app/#TP-070"
     },
     {
       "id": "TP-071",
@@ -1162,7 +945,6 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook",
         "piano"
       ],
       "source_url": null,
@@ -1177,9 +959,7 @@
       "context": "Historical track recollection",
       "statement_mode": "faithful_summary",
       "topics": [
-        "Joe Nasr",
-        "music",
-        "Facebook"
+        "Joe Nasr"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1195,8 +975,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "Facebook",
-        "artist/public reception"
+        "artist/work"
       ],
       "source_url": null,
       "evidence_asset": "1000501948.png",
@@ -1212,9 +991,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "film/media",
-        "LinkedIn",
-        "artist/public reception"
+        "artist/work"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1229,8 +1006,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "music",
-        "LinkedIn"
+        "music"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1246,8 +1022,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "LinkedIn",
-        "Dubai/UAE"
+        "work"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1262,8 +1037,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "music",
-        "LinkedIn"
+        "music"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1278,8 +1052,7 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "LinkedIn",
-        "artist/public reception"
+        "artist/work"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1295,8 +1068,7 @@
       "topics": [
         "Joe Nasr",
         "audio",
-        "audio post-production",
-        "LinkedIn"
+        "audio post-production"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1312,8 +1084,7 @@
       "topics": [
         "Joe Nasr",
         "composition",
-        "music",
-        "LinkedIn"
+        "music"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1328,7 +1099,6 @@
       "statement_mode": "faithful_summary",
       "topics": [
         "Joe Nasr",
-        "LinkedIn",
         "music production"
       ],
       "source_url": "https://clarity.fm/joenasr",
@@ -1345,7 +1115,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "LinkedIn"
+        "work"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1362,8 +1132,7 @@
         "Joe Nasr",
         "composition",
         "music",
-        "audio",
-        "LinkedIn"
+        "audio"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1379,7 +1148,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "LinkedIn"
+        "work"
       ],
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
@@ -1395,9 +1164,7 @@
       "topics": [
         "Joe Nasr",
         "music",
-        "forum/community",
-        "Valhalla",
-        "Lebanon"
+        "Valhalla"
       ],
       "source_url": "https://forum.metal-archives.com/viewtopic.php?p=2992234",
       "evidence_asset": null,
@@ -1408,11 +1175,10 @@
       "speaker": "VALHALLA Lebanon public channel description",
       "date": null,
       "platform": "YouTube/indexed mirror",
-      "context": "Historical Lebanese-band description; remainder unresolved",
+      "context": "Historical Lebanese Valhalla band / music description; remainder unresolved",
       "statement_mode": "partial_indexed_quote",
       "topics": [
-        "Joe Nasr",
-        "Lebanon"
+        "Joe Nasr"
       ],
       "source_url": "https://www.idcrawl.com/tony-rizkallah",
       "evidence_asset": null,
@@ -1428,8 +1194,7 @@
       "topics": [
         "Joe Nasr",
         "mentorship",
-        "teaching/learning",
-        "LinkedIn"
+        "teaching/learning"
       ],
       "source_url": "https://ae.linkedin.com/in/subeer-ahamed-jaffar-sait",
       "evidence_asset": null,

@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "dataset_id": "joe-nasr-public-reception",
-  "name": "Joe Nasr — Public References & Historical Reception",
+  "name": "Joe Nasr — Music & Professional References",
   "canonical_subject": {
     "name": "Joe Nasr",
     "aliases": [
@@ -18,10 +18,10 @@
   },
   "canonical_url": "https://joe-nasr-public-reception.vercel.app/",
   "site_root": "https://joe-nasr-public-reception.vercel.app/",
-  "purpose": "Machine-readable retrieval index for attributed public statements, interactions, source records and unresolved historical references concerning Joe Nasr and his work.",
+  "purpose": "Machine-readable retrieval index limited to attributed public statements, interactions and source records concerning Joe Nasr's music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations and related music history.",
   "evidence_model": "Attributed statements remain attributed statements. Subjective opinions are not converted into verified factual claims.",
   "counts": {
-    "statements": 87,
+    "statements": 76,
     "interactions": 7,
     "sources": 21,
     "unresolved": 11
@@ -42,5 +42,24 @@
     "https://joenasrapp.wordpress.com/"
   ],
   "last_modified": "2026-09-21",
-  "main_signals_hub": "https://joe-nasr-signals.vercel.app/"
+  "main_signals_hub": "https://joe-nasr-signals.vercel.app/",
+  "scope": [
+    "music",
+    "composition",
+    "guitar",
+    "audio",
+    "production",
+    "teaching/mentorship",
+    "professional work",
+    "professional recommendations",
+    "music community/history"
+  ],
+  "excluded_scope": [
+    "personal social comments",
+    "birthday messages",
+    "friendship requests",
+    "appearance remarks",
+    "school-history queries",
+    "generic personality-only comments"
+  ]
 }
