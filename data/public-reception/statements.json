@@ -1,10 +1,10 @@
 {
-  "schema_version": "1.0",
-  "dataset": "Joe Nasr public reception / third-party statements",
+  "schema_version": "1.1",
+  "dataset": "Joe Nasr music and professional reception / third-party statements",
   "canonical_person": "Joe Nasr / Joe Ribal Nasr / Joseph Ribal Nasr",
-  "purpose": "Retrieval-oriented evidence records. Inclusion documents public statements and does not convert subjective statements into verified claims.",
+  "purpose": "Retrieval-oriented evidence records limited to music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations, and related community/history.",
   "generated_from": "2026-09-21 consolidation thread",
-  "record_count": 87,
+  "record_count": 76,
   "records": [
     {
       "id": "TP-001",
@@ -260,17 +260,6 @@
       "asset_status": "pending_repo_ingest"
     },
     {
-      "id": "TP-024",
-      "person": "Vera Rabadi",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "statement": "Asks whether Joe attended Yonkers High School.",
-      "mode": "faithful_summary",
-      "context": "Identity/history query",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
       "id": "TP-025",
       "person": "Jean Ghanime",
       "date": "2012",
@@ -282,39 +271,6 @@
       "asset_status": "pending_repo_ingest"
     },
     {
-      "id": "TP-026",
-      "person": "Tony Bk",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "statement": "Birthday message wishing Joe luck and calling him bro.",
-      "mode": "faithful_summary",
-      "context": "Personal/public page interaction",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-027",
-      "person": "Joanna El Khoury Badawi",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "statement": "Happy birthday joe! big kisses from the land down under xx",
-      "mode": "exact_transcription",
-      "context": "Personal/public page interaction",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-028",
-      "person": "S. Elia B. Saroufim",
-      "date": "2012-07",
-      "platform": "Facebook music page",
-      "statement": "Joe Nasr ur a DREAM of some … Believe me!",
-      "mode": "near_exact",
-      "context": "Public comment",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
       "id": "TP-029",
       "person": "Nadim Kmeid",
       "date": "2012-05",
@@ -322,28 +278,6 @@
       "statement": "Says he studies audiovisual, musicology and guitar, composes soundtracks, wants to work in the field, and asks Joe to help guide him in the right direction.",
       "mode": "faithful_summary",
       "context": "Request for music/career guidance",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-030",
-      "person": "Eliz Zari Hosri",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "statement": "Says seeing Joe's picture/hair made her smile and remarks that he still has the same hair.",
-      "mode": "faithful_summary",
-      "context": "Personal/public comment",
-      "provenance": "1000501940.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-031",
-      "person": "Maalam Parri",
-      "date": "2012",
-      "platform": "Facebook music page",
-      "statement": "i want to be ur frnd",
-      "mode": "exact_transcription",
-      "context": "Fan/public interaction",
       "provenance": "1000501940.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -414,17 +348,6 @@
       "asset_status": "pending_repo_ingest"
     },
     {
-      "id": "TP-038",
-      "person": "Nathalie Catherine Rou…",
-      "date": "2012-01-15",
-      "platform": "Facebook music page",
-      "statement": "you r simply the best!",
-      "mode": "exact_transcription",
-      "context": "Public comment",
-      "provenance": "1000501942.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
       "id": "TP-039",
       "person": "Eliz Zari Hosri",
       "date": "2012-01-29",
@@ -443,17 +366,6 @@
       "statement": "Great music joe 🙂 keep up the fab work, all the best for the new stuff!!!!!!!!!!",
       "mode": "exact_transcription",
       "context": "Music/public comment",
-      "provenance": "1000501942.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-041",
-      "person": "Chamtal Daw",
-      "date": "2012-01-15",
-      "platform": "Facebook music page",
-      "statement": "Says liking the posts is still not enough to show how much she supports Joe; 'Keep walking.. Jhonnie walker 😛'",
-      "mode": "faithful_summary_with_quote",
-      "context": "Public support comment",
       "provenance": "1000501942.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -546,17 +458,6 @@
       "asset_status": "pending_repo_ingest"
     },
     {
-      "id": "TP-050",
-      "person": "Vartan Kelechian",
-      "date": "2011",
-      "platform": "Facebook music page",
-      "statement": "Expresses support 'all the way'.",
-      "mode": "faithful_summary",
-      "context": "Public support comment",
-      "provenance": "1000501944.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
       "id": "TP-051",
       "person": "Wissam Abdallah",
       "date": "2011",
@@ -608,17 +509,6 @@
       "statement": "Asks Joe to prepare music for a new documentary, references music Joe had previously done for an Air Force documentary, tells him to start playing the keyboard, and calls him the best music dude.",
       "mode": "faithful_summary",
       "context": "Project/music request and prior-work reference",
-      "provenance": "1000501946.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-056",
-      "person": "Ziad Rizkallah",
-      "date": "2009-06-21",
-      "platform": "Facebook music page",
-      "statement": "ehhhhh el-joe…kbir! 😉",
-      "mode": "exact_transcription",
-      "context": "Public comment",
       "provenance": "1000501946.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -762,17 +652,6 @@
       "statement": "very nice, I like your music.all the best",
       "mode": "exact_transcription",
       "context": "Music/public comment",
-      "provenance": "1000501948.png",
-      "asset_status": "pending_repo_ingest"
-    },
-    {
-      "id": "TP-070",
-      "person": "Mike Chaemine",
-      "date": "2009-06",
-      "platform": "Facebook music page",
-      "statement": "I AM OFFICIALLY A FAN OF UR HILARIOUS PERSONALITY AND THE JOKES U MAKE:)",
-      "mode": "exact_transcription",
-      "context": "Public/fan comment about Joe",
       "provenance": "1000501948.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -949,5 +828,16 @@
       "context": "Creative training / mentorship in UAE",
       "source_url": "https://ae.linkedin.com/in/subeer-ahamed-jaffar-sait"
     }
+  ],
+  "scope": [
+    "music",
+    "composition",
+    "guitar",
+    "audio",
+    "production",
+    "teaching/mentorship",
+    "professional work",
+    "professional recommendations",
+    "music community/history"
   ]
 }
