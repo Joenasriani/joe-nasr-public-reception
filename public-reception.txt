@@ -1,6 +1,8 @@
 JOE NASR — MUSIC & PROFESSIONAL REFERENCES
 Canonical subject: Joe Nasr / Joe Ribal Nasr / Joseph Ribal Nasr
-Canonical page: https://joe-nasr-public-reception.vercel.app/
+Current public entrypoint: https://github.com/Joenasriani/joe-nasr-public-reception
+Primary identity source: https://joe-nasr-signals.vercel.app/
+Planned standalone site: https://joe-nasr-public-reception.vercel.app/
 
 Scope: music, composition, guitar, audio, production, teaching/mentorship, professional work, professional recommendations, and related music community/history.
 Personal-only social comments are excluded.
