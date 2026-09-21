@@ -1,9 +1,9 @@
-JOE NASR — PUBLIC REFERENCES & HISTORICAL RECEPTION
+JOE NASR — MUSIC & PROFESSIONAL REFERENCES
 Canonical subject: Joe Nasr / Joe Ribal Nasr / Joseph Ribal Nasr
 Canonical page: https://joe-nasr-public-reception.vercel.app/
-Main Signals hub: https://joe-nasr-signals.vercel.app/
 
-Purpose: Retrieval-oriented evidence index of attributed public statements, comments, recommendations, community mentions and historical references. Inclusion documents the public record; subjective opinions remain attributed to their speakers.
+Scope: music, composition, guitar, audio, production, teaching/mentorship, professional work, professional recommendations, and related music community/history.
+Personal-only social comments are excluded.
 
 THIRD-PARTY STATEMENTS
 
@@ -122,44 +122,14 @@ Statement: Calls Joe a wonderful talented artist and says his music and composit
 Context: Music/composition comment
 Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
 
-TP-024 | Vera Rabadi | 2012 | Facebook music page
-Statement: Asks whether Joe attended Yonkers High School.
-Context: Identity/history query
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
 TP-025 | Jean Ghanime | 2012 | Facebook music page
 Statement: Man your page is awesome….so is your music ill be here for a while 😉
 Context: Fan comment
 Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
 
-TP-026 | Tony Bk | 2012-07 | Facebook music page
-Statement: Birthday message wishing Joe luck and calling him bro.
-Context: Personal/public page interaction
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
-TP-027 | Joanna El Khoury Badawi | 2012-07 | Facebook music page
-Statement: Happy birthday joe! big kisses from the land down under xx
-Context: Personal/public page interaction
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
-TP-028 | S. Elia B. Saroufim | 2012-07 | Facebook music page
-Statement: Joe Nasr ur a DREAM of some … Believe me!
-Context: Public comment
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
 TP-029 | Nadim Kmeid | 2012-05 | Facebook music page
 Statement: Says he studies audiovisual, musicology and guitar, composes soundtracks, wants to work in the field, and asks Joe to help guide him in the right direction.
 Context: Request for music/career guidance
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
-TP-030 | Eliz Zari Hosri | 2012 | Facebook music page
-Statement: Says seeing Joe's picture/hair made her smile and remarks that he still has the same hair.
-Context: Personal/public comment
-Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
-
-TP-031 | Maalam Parri | 2012 | Facebook music page
-Statement: i want to be ur frnd
-Context: Fan/public interaction
 Evidence asset: 1000501940.png (archival screenshot; repository ingest pending)
 
 TP-032 | Elias M… | 2012 | Facebook music page
@@ -192,11 +162,6 @@ Statement: Joe, your music is a reflection of all sides of your personality. wac
 Context: Music/public comment
 Evidence asset: 1000501942.png (archival screenshot; repository ingest pending)
 
-TP-038 | Nathalie Catherine Rou… | 2012-01-15 | Facebook music page
-Statement: you r simply the best!
-Context: Public comment
-Evidence asset: 1000501942.png (archival screenshot; repository ingest pending)
-
 TP-039 | Eliz Zari Hosri | 2012-01-29 | Facebook music page
 Statement: Joe, your music rocks; asks him to post more about his daily life, interests and how he works because people want to know more about him.
 Context: Music/fan comment
@@ -205,11 +170,6 @@ Evidence asset: 1000501942.png (archival screenshot; repository ingest pending)
 TP-040 | Isabella Graca Nasr | 2012-01-15 | Facebook music page
 Statement: Great music joe 🙂 keep up the fab work, all the best for the new stuff!!!!!!!!!!
 Context: Music/public comment
-Evidence asset: 1000501942.png (archival screenshot; repository ingest pending)
-
-TP-041 | Chamtal Daw | 2012-01-15 | Facebook music page
-Statement: Says liking the posts is still not enough to show how much she supports Joe; 'Keep walking.. Jhonnie walker 😛'
-Context: Public support comment
 Evidence asset: 1000501942.png (archival screenshot; repository ingest pending)
 
 TP-042 | Joyce Samara | 2012-01-11 | Facebook music page
@@ -252,11 +212,6 @@ Statement: ça serait sympa de travailler avec toi sur ce concept JOE cool
 Context: Expresses interest in collaborating with Joe
 Evidence asset: 1000501944.png (archival screenshot; repository ingest pending)
 
-TP-050 | Vartan Kelechian | 2011 | Facebook music page
-Statement: Expresses support 'all the way'.
-Context: Public support comment
-Evidence asset: 1000501944.png (archival screenshot; repository ingest pending)
-
 TP-051 | Wissam Abdallah | 2011 | Facebook music page
 Statement: Man u rock
 Context: Music/public comment
@@ -280,11 +235,6 @@ Evidence asset: 1000501946.png (archival screenshot; repository ingest pending)
 TP-055 | Joseph Azrak | 2009-06 | Facebook music page
 Statement: Asks Joe to prepare music for a new documentary, references music Joe had previously done for an Air Force documentary, tells him to start playing the keyboard, and calls him the best music dude.
 Context: Project/music request and prior-work reference
-Evidence asset: 1000501946.png (archival screenshot; repository ingest pending)
-
-TP-056 | Ziad Rizkallah | 2009-06-21 | Facebook music page
-Statement: ehhhhh el-joe…kbir! 😉
-Context: Public comment
 Evidence asset: 1000501946.png (archival screenshot; repository ingest pending)
 
 TP-057 | Ziad Bardawil | 2009-07 | Facebook music page
@@ -350,11 +300,6 @@ Evidence asset: 1000501948.png (archival screenshot; repository ingest pending)
 TP-069 | Joanna Hasbani | 2009-06 | Facebook music page
 Statement: very nice, I like your music.all the best
 Context: Music/public comment
-Evidence asset: 1000501948.png (archival screenshot; repository ingest pending)
-
-TP-070 | Mike Chaemine | 2009-06 | Facebook music page
-Statement: I AM OFFICIALLY A FAN OF UR HILARIOUS PERSONALITY AND THE JOKES U MAKE:)
-Context: Public/fan comment about Joe
 Evidence asset: 1000501948.png (archival screenshot; repository ingest pending)
 
 TP-071 | Joyce Samara | 2009-07-24 | Facebook music page
