@@ -84,7 +84,7 @@ Evidence asset: 1000501750.png (archival screenshot; repository ingest pending)
 
 TP-016 | Elham Farid | 2010-09-08 | Facebook
 Statement: Really Really I Like Ittttttttttt
-Context: Listener reaction
+Context: Listener reaction to Joe Nasr 2010 composition
 Evidence asset: 1000501750.png (archival screenshot; repository ingest pending)
 
 TP-017 | Dany Fares | 2010-09-09 | Facebook
@@ -114,7 +114,7 @@ Evidence asset: 1000501938.png (archival screenshot; repository ingest pending)
 
 TP-022 | Nataly Sejaan Karam | 2012-11 | Facebook music page
 Statement: Coucou New fan 😊
-Context: Fan comment
+Context: New fan comment on Joe Nasr Facebook music page
 Evidence asset: 1000501938.png (archival screenshot; repository ingest pending)
 
 TP-023 | Alec Yaverian | 2012 | Facebook music page
@@ -379,7 +379,7 @@ Source: https://forum.metal-archives.com/viewtopic.php?p=2992234
 
 TP-086 | VALHALLA Lebanon public channel description | date unresolved | YouTube/indexed mirror
 Statement: Joe Nasr: The Godfather of most known…
-Context: Historical Lebanese-band description; remainder unresolved
+Context: Historical Lebanese Valhalla band / music description; remainder unresolved
 Source: https://www.idcrawl.com/tony-rizkallah
 
 TP-087 | Subeer Ahamed / SAE UAE context | date unresolved | LinkedIn
