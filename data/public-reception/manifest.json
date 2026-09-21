@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "dataset_id": "joe-nasr-public-reception",
   "name": "Joe Nasr — Music & Professional References",
   "canonical_subject": {
@@ -16,7 +16,7 @@
       "joenasrprofile"
     ]
   },
-  "canonical_url": "https://joe-nasr-public-reception.vercel.app/",
+  "canonical_url": "https://github.com/Joenasriani/joe-nasr-public-reception",
   "site_root": "https://joe-nasr-public-reception.vercel.app/",
   "purpose": "Machine-readable retrieval index limited to attributed public statements, interactions and source records concerning Joe Nasr's music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations and related music history.",
   "evidence_model": "Attributed statements remain attributed statements. Subjective opinions are not converted into verified factual claims.",
@@ -33,7 +33,10 @@
     "unresolved": "/data/public-reception/unresolved.json",
     "retrieval_index": "/data/public-reception/index.json",
     "html_landing": "/",
-    "plain_text": "/public-reception.txt"
+    "plain_text": "/public-reception.txt",
+    "entity": "/entity.json",
+    "ai_retrieval_guide": "/llms.txt",
+    "sitemap": "/sitemap.xml"
   },
   "historical_inactive_domains": [
     "joenasrapp.com"
@@ -61,5 +64,11 @@
     "appearance remarks",
     "school-history queries",
     "generic personality-only comments"
-  ]
+  ],
+  "current_public_entrypoint": "https://github.com/Joenasriani/joe-nasr-public-reception",
+  "repository_url": "https://github.com/Joenasriani/joe-nasr-public-reception",
+  "raw_base": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main",
+  "planned_public_site": "https://joe-nasr-public-reception.vercel.app/",
+  "public_site_status": "not_yet_deployed",
+  "primary_identity_source": "https://joe-nasr-signals.vercel.app/"
 }
