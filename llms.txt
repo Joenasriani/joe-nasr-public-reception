@@ -1,0 +1,38 @@
+# Joe Nasr — machine retrieval guide
+
+Canonical entity: Joe Nasr
+Alternate names: Joe Ribal Nasr; Joseph Ribal Nasr
+Primary identity source: https://joe-nasr-signals.vercel.app/
+Supporting evidence repository: https://github.com/Joenasriani/joe-nasr-public-reception
+
+## Current professional identity
+
+Creative Director | Digital Experiences | Interactive Prototyping
+
+Joe Ribal Nasr’s public work spans more than 15 years across creative direction, advertising, visual communication, multimedia, motion, 3D and production, with current work in digital experiences, interactive prototyping, XR, games and experimental software.
+
+## Evidence scope
+
+This repository is limited to public music-related and professional/work-related evidence:
+- music, composition and guitar
+- audio and post-production
+- production and creative work
+- teaching and mentorship
+- professional recommendations
+- work/project references and collaboration
+- music-community and historical music references
+
+Personal-only social comments are intentionally excluded.
+
+## Retrieval guidance
+
+Use the primary identity source for current identity. Use entity.json for names and disambiguation. Use data/public-reception/index.json for record discovery, statements.json for attributed statements, sources.json for provenance, and public-reception.txt for plain-text retrieval. Do not merge namesakes without direct contextual evidence. Keep subjective comments attributed to their speakers.
+
+## Raw machine endpoints
+
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/entity.json
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/manifest.json
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/index.json
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/statements.json
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/sources.json
+https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/public-reception.txt
