@@ -178,7 +178,7 @@
       "platform": "Facebook",
       "statement": "Really Really I Like Ittttttttttt",
       "mode": "exact_transcription",
-      "context": "Listener reaction",
+      "context": "Listener reaction to Joe Nasr 2010 composition",
       "provenance": "1000501750.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -244,7 +244,7 @@
       "platform": "Facebook music page",
       "statement": "Coucou New fan 😊",
       "mode": "near_exact",
-      "context": "Fan comment",
+      "context": "New fan comment on Joe Nasr Facebook music page",
       "provenance": "1000501938.png",
       "asset_status": "pending_repo_ingest"
     },
@@ -815,7 +815,7 @@
       "platform": "YouTube/indexed mirror",
       "statement": "Joe Nasr: The Godfather of most known…",
       "mode": "partial_indexed_quote",
-      "context": "Historical Lebanese-band description; remainder unresolved",
+      "context": "Historical Lebanese Valhalla band / music description; remainder unresolved",
       "source_url": "https://www.idcrawl.com/tony-rizkallah"
     },
     {
