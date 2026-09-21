@@ -256,7 +256,7 @@
       "speaker": "Elham Farid",
       "date": "2010-09-08",
       "platform": "Facebook",
-      "context": "Listener reaction",
+      "context": "Listener reaction to Joe Nasr 2010 composition",
       "statement_mode": "exact_transcription",
       "topics": [
         "Joe Nasr"
@@ -348,7 +348,7 @@
       "speaker": "Nataly Sejaan Karam",
       "date": "2012-11",
       "platform": "Facebook music page",
-      "context": "Fan comment",
+      "context": "New fan comment on Joe Nasr Facebook music page",
       "statement_mode": "near_exact",
       "topics": [
         "Joe Nasr"
@@ -1175,7 +1175,7 @@
       "speaker": "VALHALLA Lebanon public channel description",
       "date": null,
       "platform": "YouTube/indexed mirror",
-      "context": "Historical Lebanese-band description; remainder unresolved",
+      "context": "Historical Lebanese Valhalla band / music description; remainder unresolved",
       "statement_mode": "partial_indexed_quote",
       "topics": [
         "Joe Nasr"
