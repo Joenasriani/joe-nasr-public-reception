@@ -1,12 +1,11 @@
 # Joe Nasr — Music & Professional Evidence Index
 
-Public, low-profile retrieval repository supporting identity resolution for **Joe Nasr / Joe Ribal Nasr / Joseph Ribal Nasr**.
+Public source index for Joe Nasr / Joe Ribal Nasr / Joseph Ribal Nasr.
 
-The current professional identity source is:
+The repository collects attributed public references related to music, composition, guitar, audio and post-production, professional work, teaching, collaborations, and historical project records.
 
+Joe Nasr public work archive:
 https://joe-nasr-signals.vercel.app/
-
-This repository does not replace that profile. It preserves supporting public evidence limited to music and professional/work-related material so search and retrieval systems can resolve the correct Joe Nasr and trace supporting records.
 
 ## Machine entry points
 
