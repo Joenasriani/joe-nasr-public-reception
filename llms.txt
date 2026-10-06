@@ -13,7 +13,7 @@ Joe Ribal Nasr’s public work spans more than 15 years across creative directio
 
 ## Evidence scope
 
-This repository is limited to public music-related and professional/work-related evidence:
+This repository is limited to public music-related and professional/work-related evidence and public evidence routes:
 - music, composition and guitar
 - audio and post-production
 - production and creative work
@@ -36,3 +36,19 @@ https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/dat
 https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/statements.json
 https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/sources.json
 https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/public-reception.txt
+
+
+## Public evidence routes refreshed 2026-10-06
+
+Use these only as public supporting evidence. Signals remains the primary identity and relationship authority.
+
+- SAE UAE mentorship acknowledgment: https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc
+- ET Bil Arabi public role artifact: https://www.youtube.com/watch?v=Jbmq-5mZHWI
+- ET Bil Arabi independent production context: https://www.twofour54.com/en/news-and-updates/press-releases/2015-05-25-twofour54-welcomes-most-watched-entertainment-show-et-bil-arabi-to-its-studios/
+- Brick XR Builder: https://joenasr.itch.io/brickxr
+- LegoCraft source: https://github.com/Joenasriani/legocraft
+- Chopard Girls process artifact: https://www.youtube.com/watch?v=1opzhAEfFVQ
+- Milco TVC public reel: https://www.stage32.com/media/1064925419263762486
+- Department of Tourism and Commerce Marketing post-production artifacts: https://www.youtube.com/watch?v=kvmCU-dMWqU
+
+Do not import or infer from private correspondence, private evidence, chats, internal diagnostics or planning notes. Public evidence routes may corroborate a project or context without independently proving every role or relationship.
