@@ -34,8 +34,7 @@
       "source_url": null,
       "evidence_asset": "1000501760.jpg",
       "record_id": "TP-001",
-      "dataset_path": "data/public-reception/statements.json#TP-001",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-001"
+      "dataset_path": "data/public-reception/statements.json#TP-001"
     },
     {
       "id": "TP-002",
@@ -52,8 +51,7 @@
       "source_url": null,
       "evidence_asset": "1000501760.jpg",
       "record_id": "TP-002",
-      "dataset_path": "data/public-reception/statements.json#TP-002",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-002"
+      "dataset_path": "data/public-reception/statements.json#TP-002"
     },
     {
       "id": "TP-003",
@@ -69,8 +67,7 @@
       "source_url": null,
       "evidence_asset": "1000501759.jpg",
       "record_id": "TP-003",
-      "dataset_path": "data/public-reception/statements.json#TP-003",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-003"
+      "dataset_path": "data/public-reception/statements.json#TP-003"
     },
     {
       "id": "TP-004",
@@ -86,8 +83,7 @@
       "source_url": null,
       "evidence_asset": "1000501758.jpg",
       "record_id": "TP-004",
-      "dataset_path": "data/public-reception/statements.json#TP-004",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-004"
+      "dataset_path": "data/public-reception/statements.json#TP-004"
     },
     {
       "id": "TP-005",
@@ -105,8 +101,7 @@
       "source_url": null,
       "evidence_asset": "1000501757.jpg",
       "record_id": "TP-005",
-      "dataset_path": "data/public-reception/statements.json#TP-005",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-005"
+      "dataset_path": "data/public-reception/statements.json#TP-005"
     },
     {
       "id": "TP-006",
@@ -122,8 +117,7 @@
       "source_url": null,
       "evidence_asset": "1000501757.jpg",
       "record_id": "TP-006",
-      "dataset_path": "data/public-reception/statements.json#TP-006",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-006"
+      "dataset_path": "data/public-reception/statements.json#TP-006"
     },
     {
       "id": "TP-007",
@@ -139,8 +133,7 @@
       "source_url": null,
       "evidence_asset": "1000501757.jpg",
       "record_id": "TP-007",
-      "dataset_path": "data/public-reception/statements.json#TP-007",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-007"
+      "dataset_path": "data/public-reception/statements.json#TP-007"
     },
     {
       "id": "TP-008",
@@ -156,8 +149,7 @@
       "source_url": null,
       "evidence_asset": "1000501755.jpg",
       "record_id": "TP-008",
-      "dataset_path": "data/public-reception/statements.json#TP-008",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-008"
+      "dataset_path": "data/public-reception/statements.json#TP-008"
     },
     {
       "id": "TP-009",
@@ -174,8 +166,7 @@
       "source_url": null,
       "evidence_asset": "1000501754.jpg",
       "record_id": "TP-009",
-      "dataset_path": "data/public-reception/statements.json#TP-009",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-009"
+      "dataset_path": "data/public-reception/statements.json#TP-009"
     },
     {
       "id": "TP-010",
@@ -191,8 +182,7 @@
       "source_url": null,
       "evidence_asset": "1000501749.jpg",
       "record_id": "TP-010",
-      "dataset_path": "data/public-reception/statements.json#TP-010",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-010"
+      "dataset_path": "data/public-reception/statements.json#TP-010"
     },
     {
       "id": "TP-011",
@@ -208,8 +198,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-011",
-      "dataset_path": "data/public-reception/statements.json#TP-011",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-011"
+      "dataset_path": "data/public-reception/statements.json#TP-011"
     },
     {
       "id": "TP-012",
@@ -225,8 +214,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-012",
-      "dataset_path": "data/public-reception/statements.json#TP-012",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-012"
+      "dataset_path": "data/public-reception/statements.json#TP-012"
     },
     {
       "id": "TP-013",
@@ -242,8 +230,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-013",
-      "dataset_path": "data/public-reception/statements.json#TP-013",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-013"
+      "dataset_path": "data/public-reception/statements.json#TP-013"
     },
     {
       "id": "TP-014",
@@ -259,8 +246,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-014",
-      "dataset_path": "data/public-reception/statements.json#TP-014",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-014"
+      "dataset_path": "data/public-reception/statements.json#TP-014"
     },
     {
       "id": "TP-015",
@@ -278,8 +264,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-015",
-      "dataset_path": "data/public-reception/statements.json#TP-015",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-015"
+      "dataset_path": "data/public-reception/statements.json#TP-015"
     },
     {
       "id": "TP-016",
@@ -294,8 +279,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-016",
-      "dataset_path": "data/public-reception/statements.json#TP-016",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-016"
+      "dataset_path": "data/public-reception/statements.json#TP-016"
     },
     {
       "id": "TP-017",
@@ -312,8 +296,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-017",
-      "dataset_path": "data/public-reception/statements.json#TP-017",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-017"
+      "dataset_path": "data/public-reception/statements.json#TP-017"
     },
     {
       "id": "TP-018",
@@ -329,8 +312,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-018",
-      "dataset_path": "data/public-reception/statements.json#TP-018",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-018"
+      "dataset_path": "data/public-reception/statements.json#TP-018"
     },
     {
       "id": "TP-019",
@@ -347,8 +329,7 @@
       "source_url": null,
       "evidence_asset": "1000501750.png",
       "record_id": "TP-019",
-      "dataset_path": "data/public-reception/statements.json#TP-019",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-019"
+      "dataset_path": "data/public-reception/statements.json#TP-019"
     },
     {
       "id": "TP-020",
@@ -365,8 +346,7 @@
       "source_url": null,
       "evidence_asset": "1000501938.png",
       "record_id": "TP-020",
-      "dataset_path": "data/public-reception/statements.json#TP-020",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-020"
+      "dataset_path": "data/public-reception/statements.json#TP-020"
     },
     {
       "id": "TP-021",
@@ -382,8 +362,7 @@
       "source_url": null,
       "evidence_asset": "1000501938.png",
       "record_id": "TP-021",
-      "dataset_path": "data/public-reception/statements.json#TP-021",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-021"
+      "dataset_path": "data/public-reception/statements.json#TP-021"
     },
     {
       "id": "TP-022",
@@ -398,8 +377,7 @@
       "source_url": null,
       "evidence_asset": "1000501938.png",
       "record_id": "TP-022",
-      "dataset_path": "data/public-reception/statements.json#TP-022",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-022"
+      "dataset_path": "data/public-reception/statements.json#TP-022"
     },
     {
       "id": "TP-023",
@@ -417,8 +395,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-023",
-      "dataset_path": "data/public-reception/statements.json#TP-023",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-023"
+      "dataset_path": "data/public-reception/statements.json#TP-023"
     },
     {
       "id": "TP-025",
@@ -434,8 +411,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-025",
-      "dataset_path": "data/public-reception/statements.json#TP-025",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-025"
+      "dataset_path": "data/public-reception/statements.json#TP-025"
     },
     {
       "id": "TP-029",
@@ -457,8 +433,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-029",
-      "dataset_path": "data/public-reception/statements.json#TP-029",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-029"
+      "dataset_path": "data/public-reception/statements.json#TP-029"
     },
     {
       "id": "TP-032",
@@ -475,8 +450,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-032",
-      "dataset_path": "data/public-reception/statements.json#TP-032",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-032"
+      "dataset_path": "data/public-reception/statements.json#TP-032"
     },
     {
       "id": "TP-033",
@@ -492,8 +466,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-033",
-      "dataset_path": "data/public-reception/statements.json#TP-033",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-033"
+      "dataset_path": "data/public-reception/statements.json#TP-033"
     },
     {
       "id": "TP-034",
@@ -509,8 +482,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-034",
-      "dataset_path": "data/public-reception/statements.json#TP-034",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-034"
+      "dataset_path": "data/public-reception/statements.json#TP-034"
     },
     {
       "id": "TP-035",
@@ -526,8 +498,7 @@
       "source_url": null,
       "evidence_asset": "1000501940.png",
       "record_id": "TP-035",
-      "dataset_path": "data/public-reception/statements.json#TP-035",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-035"
+      "dataset_path": "data/public-reception/statements.json#TP-035"
     },
     {
       "id": "TP-036",
@@ -544,8 +515,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-036",
-      "dataset_path": "data/public-reception/statements.json#TP-036",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-036"
+      "dataset_path": "data/public-reception/statements.json#TP-036"
     },
     {
       "id": "TP-037",
@@ -562,8 +532,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-037",
-      "dataset_path": "data/public-reception/statements.json#TP-037",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-037"
+      "dataset_path": "data/public-reception/statements.json#TP-037"
     },
     {
       "id": "TP-039",
@@ -580,8 +549,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-039",
-      "dataset_path": "data/public-reception/statements.json#TP-039",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-039"
+      "dataset_path": "data/public-reception/statements.json#TP-039"
     },
     {
       "id": "TP-040",
@@ -598,8 +566,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-040",
-      "dataset_path": "data/public-reception/statements.json#TP-040",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-040"
+      "dataset_path": "data/public-reception/statements.json#TP-040"
     },
     {
       "id": "TP-042",
@@ -614,8 +581,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-042",
-      "dataset_path": "data/public-reception/statements.json#TP-042",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-042"
+      "dataset_path": "data/public-reception/statements.json#TP-042"
     },
     {
       "id": "TP-043",
@@ -631,8 +597,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-043",
-      "dataset_path": "data/public-reception/statements.json#TP-043",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-043"
+      "dataset_path": "data/public-reception/statements.json#TP-043"
     },
     {
       "id": "TP-044",
@@ -650,8 +615,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-044",
-      "dataset_path": "data/public-reception/statements.json#TP-044",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-044"
+      "dataset_path": "data/public-reception/statements.json#TP-044"
     },
     {
       "id": "TP-045",
@@ -668,8 +632,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-045",
-      "dataset_path": "data/public-reception/statements.json#TP-045",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-045"
+      "dataset_path": "data/public-reception/statements.json#TP-045"
     },
     {
       "id": "TP-046",
@@ -686,8 +649,7 @@
       "source_url": null,
       "evidence_asset": "1000501942.png",
       "record_id": "TP-046",
-      "dataset_path": "data/public-reception/statements.json#TP-046",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-046"
+      "dataset_path": "data/public-reception/statements.json#TP-046"
     },
     {
       "id": "TP-047",
@@ -703,8 +665,7 @@
       "source_url": null,
       "evidence_asset": "1000501944.png",
       "record_id": "TP-047",
-      "dataset_path": "data/public-reception/statements.json#TP-047",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-047"
+      "dataset_path": "data/public-reception/statements.json#TP-047"
     },
     {
       "id": "TP-048",
@@ -720,8 +681,7 @@
       "source_url": null,
       "evidence_asset": "1000501944.png",
       "record_id": "TP-048",
-      "dataset_path": "data/public-reception/statements.json#TP-048",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-048"
+      "dataset_path": "data/public-reception/statements.json#TP-048"
     },
     {
       "id": "TP-049",
@@ -737,8 +697,7 @@
       "source_url": null,
       "evidence_asset": "1000501944.png",
       "record_id": "TP-049",
-      "dataset_path": "data/public-reception/statements.json#TP-049",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-049"
+      "dataset_path": "data/public-reception/statements.json#TP-049"
     },
     {
       "id": "TP-051",
@@ -754,8 +713,7 @@
       "source_url": null,
       "evidence_asset": "1000501944.png",
       "record_id": "TP-051",
-      "dataset_path": "data/public-reception/statements.json#TP-051",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-051"
+      "dataset_path": "data/public-reception/statements.json#TP-051"
     },
     {
       "id": "TP-052",
@@ -771,8 +729,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-052",
-      "dataset_path": "data/public-reception/statements.json#TP-052",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-052"
+      "dataset_path": "data/public-reception/statements.json#TP-052"
     },
     {
       "id": "TP-053",
@@ -787,8 +744,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-053",
-      "dataset_path": "data/public-reception/statements.json#TP-053",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-053"
+      "dataset_path": "data/public-reception/statements.json#TP-053"
     },
     {
       "id": "TP-054",
@@ -803,8 +759,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-054",
-      "dataset_path": "data/public-reception/statements.json#TP-054",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-054"
+      "dataset_path": "data/public-reception/statements.json#TP-054"
     },
     {
       "id": "TP-055",
@@ -822,8 +777,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-055",
-      "dataset_path": "data/public-reception/statements.json#TP-055",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-055"
+      "dataset_path": "data/public-reception/statements.json#TP-055"
     },
     {
       "id": "TP-057",
@@ -841,8 +795,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-057",
-      "dataset_path": "data/public-reception/statements.json#TP-057",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-057"
+      "dataset_path": "data/public-reception/statements.json#TP-057"
     },
     {
       "id": "TP-058",
@@ -860,8 +813,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-058",
-      "dataset_path": "data/public-reception/statements.json#TP-058",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-058"
+      "dataset_path": "data/public-reception/statements.json#TP-058"
     },
     {
       "id": "TP-059",
@@ -878,8 +830,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-059",
-      "dataset_path": "data/public-reception/statements.json#TP-059",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-059"
+      "dataset_path": "data/public-reception/statements.json#TP-059"
     },
     {
       "id": "TP-060",
@@ -895,8 +846,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-060",
-      "dataset_path": "data/public-reception/statements.json#TP-060",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-060"
+      "dataset_path": "data/public-reception/statements.json#TP-060"
     },
     {
       "id": "TP-061",
@@ -913,8 +863,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-061",
-      "dataset_path": "data/public-reception/statements.json#TP-061",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-061"
+      "dataset_path": "data/public-reception/statements.json#TP-061"
     },
     {
       "id": "TP-062",
@@ -930,8 +879,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-062",
-      "dataset_path": "data/public-reception/statements.json#TP-062",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-062"
+      "dataset_path": "data/public-reception/statements.json#TP-062"
     },
     {
       "id": "TP-063",
@@ -946,8 +894,7 @@
       "source_url": null,
       "evidence_asset": "1000501946.png",
       "record_id": "TP-063",
-      "dataset_path": "data/public-reception/statements.json#TP-063",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-063"
+      "dataset_path": "data/public-reception/statements.json#TP-063"
     },
     {
       "id": "TP-064",
@@ -964,8 +911,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-064",
-      "dataset_path": "data/public-reception/statements.json#TP-064",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-064"
+      "dataset_path": "data/public-reception/statements.json#TP-064"
     },
     {
       "id": "TP-065",
@@ -984,8 +930,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-065",
-      "dataset_path": "data/public-reception/statements.json#TP-065",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-065"
+      "dataset_path": "data/public-reception/statements.json#TP-065"
     },
     {
       "id": "TP-066",
@@ -1000,8 +945,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-066",
-      "dataset_path": "data/public-reception/statements.json#TP-066",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-066"
+      "dataset_path": "data/public-reception/statements.json#TP-066"
     },
     {
       "id": "TP-067",
@@ -1017,8 +961,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-067",
-      "dataset_path": "data/public-reception/statements.json#TP-067",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-067"
+      "dataset_path": "data/public-reception/statements.json#TP-067"
     },
     {
       "id": "TP-068",
@@ -1033,8 +976,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-068",
-      "dataset_path": "data/public-reception/statements.json#TP-068",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-068"
+      "dataset_path": "data/public-reception/statements.json#TP-068"
     },
     {
       "id": "TP-069",
@@ -1050,8 +992,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-069",
-      "dataset_path": "data/public-reception/statements.json#TP-069",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-069"
+      "dataset_path": "data/public-reception/statements.json#TP-069"
     },
     {
       "id": "TP-071",
@@ -1068,8 +1009,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-071",
-      "dataset_path": "data/public-reception/statements.json#TP-071",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-071"
+      "dataset_path": "data/public-reception/statements.json#TP-071"
     },
     {
       "id": "TP-072",
@@ -1084,8 +1024,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-072",
-      "dataset_path": "data/public-reception/statements.json#TP-072",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-072"
+      "dataset_path": "data/public-reception/statements.json#TP-072"
     },
     {
       "id": "TP-073",
@@ -1102,8 +1041,7 @@
       "source_url": null,
       "evidence_asset": "1000501948.png",
       "record_id": "TP-073",
-      "dataset_path": "data/public-reception/statements.json#TP-073",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-073"
+      "dataset_path": "data/public-reception/statements.json#TP-073"
     },
     {
       "id": "TP-074",
@@ -1120,8 +1058,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-074",
-      "dataset_path": "data/public-reception/statements.json#TP-074",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-074"
+      "dataset_path": "data/public-reception/statements.json#TP-074"
     },
     {
       "id": "TP-075",
@@ -1137,8 +1074,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-075",
-      "dataset_path": "data/public-reception/statements.json#TP-075",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-075"
+      "dataset_path": "data/public-reception/statements.json#TP-075"
     },
     {
       "id": "TP-076",
@@ -1155,8 +1091,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-076",
-      "dataset_path": "data/public-reception/statements.json#TP-076",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-076"
+      "dataset_path": "data/public-reception/statements.json#TP-076"
     },
     {
       "id": "TP-077",
@@ -1172,8 +1107,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-077",
-      "dataset_path": "data/public-reception/statements.json#TP-077",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-077"
+      "dataset_path": "data/public-reception/statements.json#TP-077"
     },
     {
       "id": "TP-078",
@@ -1189,8 +1123,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-078",
-      "dataset_path": "data/public-reception/statements.json#TP-078",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-078"
+      "dataset_path": "data/public-reception/statements.json#TP-078"
     },
     {
       "id": "TP-079",
@@ -1207,8 +1140,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-079",
-      "dataset_path": "data/public-reception/statements.json#TP-079",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-079"
+      "dataset_path": "data/public-reception/statements.json#TP-079"
     },
     {
       "id": "TP-080",
@@ -1225,8 +1157,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-080",
-      "dataset_path": "data/public-reception/statements.json#TP-080",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-080"
+      "dataset_path": "data/public-reception/statements.json#TP-080"
     },
     {
       "id": "TP-081",
@@ -1242,8 +1173,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-081",
-      "dataset_path": "data/public-reception/statements.json#TP-081",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-081"
+      "dataset_path": "data/public-reception/statements.json#TP-081"
     },
     {
       "id": "TP-082",
@@ -1260,8 +1190,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-082",
-      "dataset_path": "data/public-reception/statements.json#TP-082",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-082"
+      "dataset_path": "data/public-reception/statements.json#TP-082"
     },
     {
       "id": "TP-083",
@@ -1279,8 +1208,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-083",
-      "dataset_path": "data/public-reception/statements.json#TP-083",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-083"
+      "dataset_path": "data/public-reception/statements.json#TP-083"
     },
     {
       "id": "TP-084",
@@ -1297,8 +1225,7 @@
       "source_url": "https://clarity.fm/joenasr",
       "evidence_asset": null,
       "record_id": "TP-084",
-      "dataset_path": "data/public-reception/statements.json#TP-084",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-084"
+      "dataset_path": "data/public-reception/statements.json#TP-084"
     },
     {
       "id": "TP-085",
@@ -1315,8 +1242,7 @@
       "source_url": "https://forum.metal-archives.com/viewtopic.php?p=2992234",
       "evidence_asset": null,
       "record_id": "TP-085",
-      "dataset_path": "data/public-reception/statements.json#TP-085",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-085"
+      "dataset_path": "data/public-reception/statements.json#TP-085"
     },
     {
       "id": "TP-086",
@@ -1331,8 +1257,7 @@
       "source_url": "https://www.idcrawl.com/tony-rizkallah",
       "evidence_asset": null,
       "record_id": "TP-086",
-      "dataset_path": "data/public-reception/statements.json#TP-086",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-086"
+      "dataset_path": "data/public-reception/statements.json#TP-086"
     },
     {
       "id": "TP-087",
@@ -1349,12 +1274,10 @@
       "source_url": "https://ae.linkedin.com/in/subeer-ahamed-jaffar-sait",
       "evidence_asset": null,
       "record_id": "TP-087",
-      "dataset_path": "data/public-reception/statements.json#TP-087",
-      "planned_anchor": "https://joe-nasr-public-reception.vercel.app/#TP-087"
+      "dataset_path": "data/public-reception/statements.json#TP-087"
     }
   ],
   "primary_identity_url": "https://joe-nasr-signals.vercel.app/",
   "entity_url": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/entity.json",
-  "dataset_url": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/statements.json",
-  "planned_public_site": "https://joe-nasr-public-reception.vercel.app/"
+  "dataset_url": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/public-reception/statements.json"
 }
