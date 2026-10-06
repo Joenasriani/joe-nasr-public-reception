@@ -7,21 +7,21 @@
       "name": "Historical Facebook music page screenshot corpus",
       "type": "primary historical screenshots",
       "period": "2009-2014",
-      "status": "preserved_in_chat_pending_repo_asset_ingest",
+      "status": "archival_asset_pending_repo_ingest",
       "notes": "Contains fan comments, peer comments, track requests, collaboration signals and public reactions."
     },
     {
       "id": "SRC-002",
       "name": "Instagram / guitar feature screenshot corpus",
       "type": "primary historical screenshots",
-      "status": "preserved_in_chat_pending_repo_asset_ingest",
+      "status": "archival_asset_pending_repo_ingest",
       "notes": "Includes guitaramania, guitarsfame, guitarcollabs and audience comments."
     },
     {
       "id": "SRC-003",
       "name": "2010 Facebook composition comment screenshot",
       "type": "primary historical screenshot",
-      "status": "preserved_in_chat_pending_repo_asset_ingest"
+      "status": "archival_asset_pending_repo_ingest"
     },
     {
       "id": "SRC-004",
