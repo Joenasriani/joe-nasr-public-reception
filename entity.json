@@ -15,8 +15,8 @@
     "joenasrprofile"
   ],
   "handle_interpretation": {
-    "primary_current_handle": "Joenasriani",
-    "rule": "Handles in this evidence repository support discovery and historical linkage. They do not all have equal authority for current professional identity."
+    "rule": "Joenasriani is an established technical and cross-platform handle. Other handles support discovery and historical linkage and remain scoped to their evidenced platforms or contexts.",
+    "established_technical_handle": "Joenasriani"
   },
   "ambiguous_name_strings": [
     "Joseph Nasr"
