@@ -18,12 +18,12 @@
   },
   "canonical_url": "https://github.com/Joenasriani/joe-nasr-public-reception",
   "site_root": "https://joe-nasr-public-reception.vercel.app/",
-  "purpose": "Machine-readable retrieval index limited to attributed public statements, interactions and source records concerning Joe Nasr's music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations and related music history.",
+  "purpose": "Machine-readable retrieval index for attributed public statements, interactions, source records and selected public evidence routes concerning Joe Nasr's music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations and related professional history.",
   "evidence_model": "Attributed statements remain attributed statements. Subjective opinions are not converted into verified factual claims.",
   "counts": {
     "statements": 76,
     "interactions": 7,
-    "sources": 21,
+    "sources": 28,
     "unresolved": 11
   },
   "files": {
@@ -44,7 +44,7 @@
   "historical_recovery_sources": [
     "https://joenasrapp.wordpress.com/"
   ],
-  "last_modified": "2026-09-21",
+  "last_modified": "2026-10-06",
   "main_signals_hub": "https://joe-nasr-signals.vercel.app/",
   "scope": [
     "music",
@@ -70,5 +70,6 @@
   "raw_base": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main",
   "planned_public_site": "https://joe-nasr-public-reception.vercel.app/",
   "public_site_status": "not_yet_deployed",
-  "primary_identity_source": "https://joe-nasr-signals.vercel.app/"
+  "primary_identity_source": "https://joe-nasr-signals.vercel.app/",
+  "public_only_policy": "Private correspondence, private proof, chats, internal diagnostics and planning material are excluded from this public dataset."
 }
