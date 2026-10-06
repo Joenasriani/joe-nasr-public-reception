@@ -31,7 +31,6 @@ Statements stay attributed to their speakers. Subjective opinions are not conver
 
 Repository: https://github.com/Joenasriani/joe-nasr-public-reception
 
-Planned standalone deployment: https://joe-nasr-public-reception.vercel.app/
 
 
 ## Recent public evidence routes
