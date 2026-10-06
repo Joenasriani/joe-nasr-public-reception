@@ -70,6 +70,5 @@
   "raw_base": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main",
   "planned_public_site": "https://joe-nasr-public-reception.vercel.app/",
   "public_site_status": "not_yet_deployed",
-  "primary_identity_source": "https://joe-nasr-signals.vercel.app/",
-  "public_only_policy": "Private correspondence, private proof, chats, internal diagnostics and planning material are excluded from this public dataset."
+  "primary_identity_source": "https://joe-nasr-signals.vercel.app/"
 }
