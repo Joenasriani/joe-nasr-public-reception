@@ -159,6 +159,62 @@
       "url": "http://joenasrapp.com",
       "status": "inactive_historical_only",
       "notes": "Do not present as a current destination. Preserve only for chronology/entity resolution."
+    },
+    {
+      "id": "SRC-022",
+      "name": "SAE UAE public mentorship acknowledgment",
+      "type": "institutional public post",
+      "url": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
+      "status": "public",
+      "notes": "Institutional acknowledgment of Joe Nasr mentorship in a Design and Motion Graphics program."
+    },
+    {
+      "id": "SRC-023",
+      "name": "ET Bil Arabi public editing artifact",
+      "type": "Joe-published project artifact",
+      "url": "https://www.youtube.com/watch?v=Jbmq-5mZHWI",
+      "status": "public",
+      "notes": "Public artifact identifies Joe Nasr as Freelance Video Editor and documents Final Cut Pro 7; use independent sources separately for production context."
+    },
+    {
+      "id": "SRC-024",
+      "name": "ET Bil Arabi twofour54 production context",
+      "type": "independent/first-party production context",
+      "url": "https://www.twofour54.com/en/news-and-updates/press-releases/2015-05-25-twofour54-welcomes-most-watched-entertainment-show-et-bil-arabi-to-its-studios/",
+      "status": "public",
+      "notes": "Corroborates ET Bil Arabi production context at twofour54; does not itself prove Joe Nasr's editor credit."
+    },
+    {
+      "id": "SRC-025",
+      "name": "Brick XR Builder / LegoCraft public artifact and source",
+      "type": "public technical artifact",
+      "url": "https://joenasr.itch.io/brickxr",
+      "status": "public",
+      "notes": "Live public Brick XR Builder artifact; source lineage is available at https://github.com/Joenasriani/legocraft."
+    },
+    {
+      "id": "SRC-026",
+      "name": "Chopard Girls public process artifact",
+      "type": "Joe-published project artifact",
+      "url": "https://www.youtube.com/watch?v=1opzhAEfFVQ",
+      "status": "public",
+      "notes": "Public metadata documents After Effects rotoscoping, animated masks, layering and compositing."
+    },
+    {
+      "id": "SRC-027",
+      "name": "Milco TVC Stage32 reel",
+      "type": "public professional reel",
+      "url": "https://www.stage32.com/media/1064925419263762486",
+      "status": "public",
+      "notes": "Public reel record documents music composition and sound recording/design for Milco TVC; exact production year remains unresolved."
+    },
+    {
+      "id": "SRC-028",
+      "name": "Department of Tourism and Commerce Marketing post-production artifact",
+      "type": "Joe-published project artifact",
+      "url": "https://www.youtube.com/watch?v=kvmCU-dMWqU",
+      "status": "public",
+      "notes": "One of the public DTCM/Dubai Tourism post-production artifacts indexed by Signals."
     }
   ]
 }
