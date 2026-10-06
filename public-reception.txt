@@ -391,13 +391,13 @@ Source: https://ae.linkedin.com/in/subeer-ahamed-jaffar-sait
 
 SOURCE REGISTER
 
-SRC-001 | Historical Facebook music page screenshot corpus | primary historical screenshots | preserved_in_chat_pending_repo_asset_ingest
+SRC-001 | Historical Facebook music page screenshot corpus | primary historical screenshots | archival_asset_pending_repo_ingest
 Notes: Contains fan comments, peer comments, track requests, collaboration signals and public reactions.
 
-SRC-002 | Instagram / guitar feature screenshot corpus | primary historical screenshots | preserved_in_chat_pending_repo_asset_ingest
+SRC-002 | Instagram / guitar feature screenshot corpus | primary historical screenshots | archival_asset_pending_repo_ingest
 Notes: Includes guitaramania, guitarsfame, guitarcollabs and audience comments.
 
-SRC-003 | 2010 Facebook composition comment screenshot | primary historical screenshot | preserved_in_chat_pending_repo_asset_ingest
+SRC-003 | 2010 Facebook composition comment screenshot | primary historical screenshot | archival_asset_pending_repo_ingest
 
 SRC-004 | Clarity Joe Nasr profile | historical third-party recommendation mirror | live/indexed
 URL: https://clarity.fm/joenasr
