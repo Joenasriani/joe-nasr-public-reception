@@ -6,7 +6,6 @@
     "name": "Joe Nasr",
     "aliases": [
       "Joe Ribal Nasr",
-      "Joseph Nasr",
       "Joseph Ribal Nasr",
       "Joenasriani",
       "Joenasr",
@@ -17,7 +16,7 @@
     ]
   },
   "canonical_url": "https://github.com/Joenasriani/joe-nasr-public-reception",
-  "site_root": "https://joe-nasr-public-reception.vercel.app/",
+  "site_root": "https://github.com/Joenasriani/joe-nasr-public-reception",
   "purpose": "Machine-readable retrieval index for attributed public statements, interactions, source records and selected public evidence routes concerning Joe Nasr's music, composition, guitar, audio, teaching/mentorship, professional work, professional recommendations and related professional history.",
   "evidence_model": "Attributed statements remain attributed statements. Subjective opinions are not converted into verified factual claims.",
   "counts": {
@@ -69,6 +68,6 @@
   "repository_url": "https://github.com/Joenasriani/joe-nasr-public-reception",
   "raw_base": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main",
   "planned_public_site": "https://joe-nasr-public-reception.vercel.app/",
-  "public_site_status": "not_yet_deployed",
+  "public_site_status": "planned_not_authoritative",
   "primary_identity_source": "https://joe-nasr-signals.vercel.app/"
 }
