@@ -28,5 +28,5 @@ Personal-only social comments are excluded.
 - `joenasrapp.com` is inactive and must not be presented as a current destination.
 - `joenasrapp.wordpress.com` is a historical recovery source.
 - Source inclusion documents the public record; it does not imply endorsement or independent verification of subjective claims.
-- Canonical archive: https://joe-nasr-public-reception.vercel.app/
-- Main Joe Nasr Signals hub: https://joe-nasr-signals.vercel.app/
+- Canonical Reception dataset: https://github.com/Joenasriani/joe-nasr-public-reception
+- Primary identity authority: https://joe-nasr-signals.vercel.app/
