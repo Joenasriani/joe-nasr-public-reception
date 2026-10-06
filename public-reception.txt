@@ -483,4 +483,4 @@ https://www.stage32.com/media/1064925419263762486
 Department of Tourism and Commerce Marketing — public post-production artifact
 https://www.youtube.com/watch?v=kvmCU-dMWqU
 
-BOUNDARY: These are public evidence routes only. They do not import private proof, private correspondence, chat material, internal planning or unpublished diagnostics. Use the canonical Signals record for exact relationship type, chronology, evidence class and unresolved boundaries.
+Use the canonical Signals record for exact relationship type, chronology, evidence class and unresolved boundaries.
