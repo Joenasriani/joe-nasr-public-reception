@@ -45,4 +45,3 @@ The repository also points to selected public evidence that strengthens current 
 - Milco TVC — public Stage32 reel record for music composition / sound work
 - Department of Tourism and Commerce Marketing — public YouTube post-production artifacts
 
-These routes are public-only. Private correspondence, private proof, chat material and internal planning are not published here.
