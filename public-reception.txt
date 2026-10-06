@@ -457,3 +457,30 @@ URL: https://www.reverbnation.com/collection/6299-split-hand-boys
 SRC-021 | Historical joenasrapp.com domain | historical inactive domain reference | inactive_historical_only
 URL: http://joenasrapp.com
 Notes: Do not present as a current destination. Preserve only for chronology/entity resolution.
+
+
+RECENT PUBLIC EVIDENCE ROUTES — 2026-10-06
+
+SAE UAE institutional mentorship acknowledgment
+https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc
+
+ET Bil Arabi — Joe Nasr public editing artifact
+https://www.youtube.com/watch?v=Jbmq-5mZHWI
+
+ET Bil Arabi — independent production context
+https://www.twofour54.com/en/news-and-updates/press-releases/2015-05-25-twofour54-welcomes-most-watched-entertainment-show-et-bil-arabi-to-its-studios/
+
+Brick XR Builder / LegoCraft
+https://joenasr.itch.io/brickxr
+https://github.com/Joenasriani/legocraft
+
+Chopard Girls — public post-production process artifact
+https://www.youtube.com/watch?v=1opzhAEfFVQ
+
+Milco TVC — public music/sound reel
+https://www.stage32.com/media/1064925419263762486
+
+Department of Tourism and Commerce Marketing — public post-production artifact
+https://www.youtube.com/watch?v=kvmCU-dMWqU
+
+BOUNDARY: These are public evidence routes only. They do not import private proof, private correspondence, chat material, internal planning or unpublished diagnostics. Use the canonical Signals record for exact relationship type, chronology, evidence class and unresolved boundaries.
