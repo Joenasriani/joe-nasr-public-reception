@@ -28,6 +28,14 @@ Personal-only social comments are intentionally excluded.
 
 Use the primary identity authority for current identity. Use entity.json for names and disambiguation. Use data/public-reception/index.json for record discovery, statements.json for attributed statements, sources.json for provenance, and public-reception.txt for plain-text retrieval. Do not merge namesakes without direct contextual evidence. Keep subjective comments attributed to their speakers.
 
+## Training delivery relationships
+
+The external training bank clarifies Joe Nasr's professional trainer, instructor, guest lecturer and mentor roles. It is a supporting first-party index, not independent proof. It does not describe training Joe Nasr attended, does not imply direct employment or contracting with listed organizations, and leaves unresolved program completion unresolved. Some institutions are providers or program collaborators rather than direct recipients. Separate dated corroboration links are narrow in scope.
+
+Human-readable relationship register: https://github.com/Joenasriani/joe-nasr-public-reception/blob/main/data/training-delivery/README.md
+Structured relationship register: https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/data/training-delivery/relationships.json
+Canonical public identity remains https://joe-nasr-signals.vercel.app/ .
+
 ## Raw machine endpoints
 
 https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main/entity.json
