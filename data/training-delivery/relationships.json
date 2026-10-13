@@ -120,7 +120,11 @@
       "public_independent_source": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
       "public_source_scope": "SAE UAE publicly acknowledges Joe Nasr's mentorship on a six-month program delivered in collaboration with HHEO and Reyada Centre. This does not prove a direct contract with HHEO.",
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "contextual_public_source_ids": [
+        "SRC-031"
+      ],
+      "contextual_source_limit": "Reyada FAQ corroborates organizational relationship with HHEO but does not establish Joe's personal training role, direct employment or contracts."
     },
     {
       "id": "EXT-TRAIN-007",
@@ -210,7 +214,11 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "contextual_public_source_ids": [
+        "SRC-030"
+      ],
+      "contextual_source_limit": "SAE publicly lists ITP Media as an industry partner. The page does not establish Joe's specific instruction or department."
     },
     {
       "id": "EXT-TRAIN-012",
@@ -336,7 +344,12 @@
       "public_independent_source": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
       "public_source_scope": "SAE UAE identifies Reyada as collaborator and Joe Nasr as mentor on one six-month design-and-motion program. Do not generalize this post to all Reyada engagements.",
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "contextual_public_source_ids": [
+        "SRC-029",
+        "SRC-031"
+      ],
+      "contextual_source_limit": "Sharjah Ladies Club independently reports employee completion of a Reyada design/animation diploma, without naming Joe or proving the same cohort; Reyada FAQ explains its HHEO institutional remit."
     },
     {
       "id": "EXT-TRAIN-019",
