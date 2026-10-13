@@ -215,6 +215,31 @@
       "url": "https://www.youtube.com/watch?v=kvmCU-dMWqU",
       "status": "public",
       "notes": "One of the public DTCM/Dubai Tourism post-production artifacts indexed by Signals."
+    },
+    {
+      "id": "SRC-029",
+      "name": "Sharjah Ladies Club on staff completion of Reyada design and animation diploma",
+      "type": "institutional public contextual evidence",
+      "url": "https://www.slc.ae/en/mediacenter/empowering%20women.%20building%20leaders",
+      "date": "2025-07-14",
+      "status": "public_verified_2026-10-13",
+      "notes": "The club states several employees completed a graphic design and animation diploma through Reyada. Does not name Joe Nasr, SAE, cohort membership or individual departments; not personal instructor attribution."
+    },
+    {
+      "id": "SRC-030",
+      "name": "SAE University College Dubai official ITP Media industry partner listing",
+      "type": "provider institution public contextual evidence",
+      "url": "https://dubai.sae.edu/industry-partner/",
+      "status": "public_verified_2026-10-13",
+      "notes": "ITP Media listed as an SAE industry partner. Does not identify Joe, his 2017 corporate course, dates or attendees; cannot independently verify training delivered."
+    },
+    {
+      "id": "SRC-031",
+      "name": "Reyada official organizational relationship with HHEO",
+      "type": "institutional organizational context",
+      "url": "https://reyadacenter.ae/en/faq/what-is-reyada-learning-development-center/",
+      "status": "public_verified_2026-10-13",
+      "notes": "Reyada describes its relationship to the Executive Office of H.H. Sheikha Jawaher and training remit. Not a personal teaching credit or proof of direct contracts."
     }
   ]
 }

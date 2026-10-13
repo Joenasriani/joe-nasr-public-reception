@@ -41,6 +41,14 @@ Joe Nasr is the trainer, guest lecturer, instructor or mentor in the relationshi
 - **Holy Quran Academy in Sharjah** · trainer · training delivered and partial program Period: 2025-11, 2026. Subject: November 2025 DaVinci workshop; 2026 DaVinci Resolve Mastery. Boundary: The November 2025 training is reported delivered. The separate 2026 eight-session program has at least four sessions established; completion of all eight remains unresolved.
 - **Supreme Council for Family Affairs, Sharjah** · trainer · training delivered to organization audience Period: 2025. Subject: Institutional training. Boundary: The available record identifies a participant-side institutional context; no direct contracting relationship is asserted.
 
+### Contextual public evidence (not personal instructor credits)
+
+- **Sharjah Ladies Club / Reyada (14 July 2025):** The club publicly states that several of its employees completed a graphic design and animation diploma through Reyada. The article does not name Joe Nasr, confirm the same training cohort, or name departments. [Institutional statement](https://www.slc.ae/en/mediacenter/empowering%20women.%20building%20leaders) (SRC-029).
+- **SAE / ITP Media:** SAE lists ITP Media among its industry partners. This listing does not identify Joe Nasr or verify the 2017 course, department or attendance. [SAE partner page](https://dubai.sae.edu/industry-partner/) (SRC-030).
+- **Reyada / HHEO:** Reyada's official FAQ explains its institutional relationship with the Executive Office of H.H. Sheikha Jawaher. It does not establish the instructor of a specific course or direct contracting relationships. [Reyada FAQ](https://reyadacenter.ae/en/faq/what-is-reyada-learning-development-center/) (SRC-031).
+
+These are distinct *organization/program context* records. They supplement but do not independently prove Joe Nasr's personal training engagements.
+
 ### Data access
 
 Machine-readable edition: [relationships.json](./relationships.json).
