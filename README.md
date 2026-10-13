@@ -9,7 +9,7 @@ https://joe-nasr-signals.vercel.app/
 
 ## Machine entry points
 
-- `entity.json` — canonical entity and disambiguation record
+- `entity.json` — supporting identity and disambiguation record; Signals remains the canonical identity source
 - `llms.txt` — concise retrieval instructions
 - `data/public-reception/manifest.json` — dataset manifest
 - `data/public-reception/index.json` — compact evidence index
