@@ -30,7 +30,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Editors, Photographers & Media Teams",
+        "audience_kind": "mixed_professional_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-002",
@@ -48,7 +55,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-003",
@@ -66,7 +80,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-004",
@@ -84,7 +105,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Abu Dhabi Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-005",
@@ -102,7 +130,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "National Theatre of Abu Dhabi Team",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-006",
@@ -120,7 +155,14 @@
       "public_independent_source": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
       "public_source_scope": "SAE UAE publicly acknowledges Joe Nasr's mentorship on a six-month program delivered in collaboration with HHEO and Reyada Centre. This does not prove a direct contract with HHEO.",
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Event Producers, Designers & Animators",
+        "audience_kind": "professional_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-007",
@@ -138,7 +180,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Social Media Executives",
+        "audience_kind": "professional_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-008",
@@ -156,7 +205,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media Workshop Participants",
+        "audience_kind": "participant_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-009",
@@ -174,7 +230,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "GEMS staff and educators were training recipients. Canon appears in one delivery context; do not infer an independent Canon client or recipient relationship.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Canon-Sponsored Education",
+        "audience_kind": "program_or_sponsorship_context",
+        "evidence_status": "USER_REPORTED_SPONSORSHIP_UNVERIFIED",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Canon/GEMS training context documented. Canon sponsorship is not independently established. Label is program context rather than department."
+      }
     },
     {
       "id": "EXT-TRAIN-010",
@@ -192,7 +255,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Adobe Software Course Participants",
+        "audience_kind": "participant_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-011",
@@ -210,7 +280,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Executive Editors Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Entire Executive Editors department trained according to user clarification. SAE correspondence separately documents training delivery; it does not independently establish full department membership."
+      }
     },
     {
       "id": "EXT-TRAIN-012",
@@ -228,7 +305,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Graphic Design & Production Team",
+        "audience_kind": "professional_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-013",
@@ -246,7 +330,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Social Media Executives",
+        "audience_kind": "professional_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-014",
@@ -264,7 +355,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Marketing Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-015",
@@ -282,7 +380,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Do not convert other hospitality participant domains into separate contracting or recipient claims.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Social Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-016",
@@ -300,7 +405,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Distinct from the independently recorded media-production project relationship.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Social Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-017",
@@ -318,7 +430,14 @@
       "public_independent_source": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
       "public_source_scope": "SAE UAE acknowledges mentorship in a collaborative Design and Motion Graphics diploma program. The post does not validate every separate program or full 2016–2026 chronology.",
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Graphic Design & Motion Diploma Participants",
+        "audience_kind": "participant_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-018",
@@ -336,7 +455,14 @@
       "public_independent_source": "https://www.linkedin.com/posts/sae-uae_hheo-reyada-centre-graphic-motion-design-activity-7351128585547431937-N9Gc",
       "public_source_scope": "SAE UAE identifies Reyada as collaborator and Joe Nasr as mentor on one six-month design-and-motion program. Do not generalize this post to all Reyada engagements.",
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media & Marketing Departments",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-019",
@@ -354,7 +480,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Social Media Department",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-020",
@@ -372,7 +505,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media Production",
+        "audience_kind": "professional_function",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-021",
@@ -390,7 +530,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "Training/program association does not establish direct employment, direct contracting, endorsement, or a personal course credential.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Executive Media Office",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     },
     {
       "id": "EXT-TRAIN-022",
@@ -411,7 +558,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "The November 2025 training is reported delivered. The separate 2026 eight-session program has at least four sessions established; completion of all eight remains unresolved.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "DaVinci Editors & Media Production Teams",
+        "audience_kind": "mixed_professional_audience",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Includes DaVinci Editors and Media Production Teams connected with multiple organizations. Do not conflate host venue, training recipient and participant employer. Preserve partial eight-session completion status."
+      }
     },
     {
       "id": "EXT-TRAIN-023",
@@ -429,7 +583,14 @@
       "public_independent_source": null,
       "public_source_scope": null,
       "claim_limitations": "The available record identifies a participant-side institutional context; no direct contracting relationship is asserted.",
-      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/"
+      "first_party_context": "https://joe-nasr-signals.vercel.app/training-workshops-lectures/",
+      "training_audience": {
+        "display_label": "Media Executive Office",
+        "audience_kind": "reported_department_or_team",
+        "evidence_status": "USER_CONFIRMED_OR_USER_AUTHORED_HISTORICAL_RECORD",
+        "independent_public_department_evidence": "NOT_ESTABLISHED",
+        "boundary": "Audience is recorded for this engagement. Do not infer all attendees belonged to one department, direct contracting, employment, endorsement, or that Joe received training."
+      }
     }
   ]
 }
