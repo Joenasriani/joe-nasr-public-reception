@@ -16,6 +16,8 @@ https://joe-nasr-signals.vercel.app/
 - `data/public-reception/statements.json` — attributed evidence records
 - `data/public-reception/sources.json` — provenance/source register
 - `public-reception.txt` — plain-text retrieval corpus
+- `data/training-delivery/README.md` — public training-role interpretation register, with evidence limits
+- `data/training-delivery/relationships.json` — typed training/instruction/mentorship edges for 23 recorded institutions; first-party claims are not mislabeled independent confirmations
 
 ## Scope
 
