@@ -69,5 +69,15 @@
   "raw_base": "https://raw.githubusercontent.com/Joenasriani/joe-nasr-public-reception/main",
   "planned_public_site": "https://joe-nasr-public-reception.vercel.app/",
   "public_site_status": "planned_not_authoritative",
-  "primary_identity_source": "https://joe-nasr-signals.vercel.app/"
+  "primary_identity_source": "https://joe-nasr-signals.vercel.app/",
+  "supporting_registers": {
+    "training_delivery": {
+      "relationship_index": "/data/training-delivery/relationships.json",
+      "human_readable": "/data/training-delivery/README.md",
+      "record_count": 23,
+      "published_on": "2026-10-13",
+      "relationship_boundary": "Supporting first-party projection; providers, hosts, collaborators and training recipients are not interchangeable. Do not infer independent verification, direct contracts, employment or education received by Joe Nasr."
+    }
+  },
+  "dataset_date_note": "last_modified refers to the public-reception dataset, not to independently maintained supporting training records."
 }
